@@ -58,7 +58,7 @@ export default {
 
 <style scoped>
   .events{
-    display: flex;
+     display: flex;
     flex-direction: column;
     align-items: center;
   }
