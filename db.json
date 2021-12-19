@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 [
+=======
+{
+  "events": [
+>>>>>>> b5f88db4ecc76afafc75f3ce8d2728ad67f647f1
     {
       "id": 123,
       "category": "animal welfare",
@@ -29,4 +34,9 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+<<<<<<< HEAD
   ]
+=======
+  ]
+}
+>>>>>>> b5f88db4ecc76afafc75f3ce8d2728ad67f647f1
